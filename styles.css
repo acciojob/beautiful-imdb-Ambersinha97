@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+body {
+	display:flex;
+}
+.moviePic {
+	height: 400px;
+	width: 250px;
+	opacity: 10;
+}
+.movieDetail {
+	position:  relative;
+	top: 0px;
+	width: 350px;
+	text-align: center;
+	font-size: 20px;
+}
